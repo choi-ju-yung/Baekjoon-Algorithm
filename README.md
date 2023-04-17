@@ -1,3 +1,6 @@
+알고리즘 문제 풀이 (벨로그 사이트에 따로 풀이함) 
+---> <br> https://velog.io/@choi-ju-yung?tag=%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
+
 ## ✅ 그리디 알고리즘
 * 미래를 고려하지 않고 오직 <span style="color:red">현재 시점</span>에 가장 좋은 선택을 하는 알고리즘 
 
